@@ -14,10 +14,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zpth60VbiLB9KSLGOwPBldBhnT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -29,7 +31,7 @@
       <recent name="C:\Users\ghks0\Desktop\Dev\Language\Python\2018037010" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2018037010_10">
+  <component name="RunManager" selected="Python.2018037010_11">
     <configuration name="2018037010_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2018037010" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,9 +60,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\JungHwan\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018037010_11.py" />
@@ -137,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2018037010_10" />
         <item itemvalue="Python.2018037010_11" />
+        <item itemvalue="Python.2018037010_10" />
         <item itemvalue="Python.2018037010_9" />
         <item itemvalue="Python.2018037010_8" />
         <item itemvalue="Python.2018037010_7" />
@@ -159,26 +161,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="480" y="9" key="#2018037010_11" timestamp="1590988712890">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="480" y="9" key="#2018037010_11/0.0.1536.834@0.0.1536.834" timestamp="1590988712890" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1590034334426">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590034334426" />
-    <state width="1515" height="203" key="GridCell.Tab.0.bottom" timestamp="1590404732905">
+    <state width="1537" height="237" key="GridCell.Tab.0.bottom" timestamp="1590989196377">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="203" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590404732905" />
-    <state width="1515" height="203" key="GridCell.Tab.0.center" timestamp="1590404732905">
+    <state width="1537" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590989196377" />
+    <state width="1537" height="237" key="GridCell.Tab.0.center" timestamp="1590989196377">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="203" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590404732905" />
-    <state width="1515" height="203" key="GridCell.Tab.0.left" timestamp="1590404732905">
+    <state width="1537" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590989196377" />
+    <state width="1537" height="237" key="GridCell.Tab.0.left" timestamp="1590989196377">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="203" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590404732905" />
-    <state width="1515" height="203" key="GridCell.Tab.0.right" timestamp="1590404732905">
+    <state width="1537" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590989196377" />
+    <state width="1537" height="237" key="GridCell.Tab.0.right" timestamp="1590989196377">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="203" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590404732905" />
+    <state width="1537" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590989196377" />
     <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1589884837297">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
