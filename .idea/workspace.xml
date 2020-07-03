@@ -28,11 +28,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JungHwan\Desktop\Dev\Language\Python\PythonProgramming" />
       <recent name="C:\Users\ghks0\Desktop\Dev\Language\Python\2018037010" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2018037010_11">
-    <configuration name="2018037010_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="2018037010_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2018037010" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +45,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018037010_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018037010_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,28 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2018037010_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2018037010" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\JungHwan\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018037010_11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2018037010_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2018037010_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2018037010" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018037010_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018037010_project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2018037010_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2018037010_project_makeDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2018037010" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018037010_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018037010_project_makeDB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2018037010_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2018037010" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +108,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018037010_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2018037010" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2018037010_11" />
-        <item itemvalue="Python.2018037010_10" />
-        <item itemvalue="Python.2018037010_9" />
-        <item itemvalue="Python.2018037010_8" />
-        <item itemvalue="Python.2018037010_7" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.2018037010_project" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.2018037010_project_makeDB" />
+        <item itemvalue="Python.2018037010_12" />
       </list>
     </recent_temporary>
   </component>
@@ -165,49 +166,53 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="480" y="9" key="#2018037010_11/0.0.1536.834@0.0.1536.834" timestamp="1590988712890" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1590034334426">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1593739467340">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590034334426" />
-    <state width="1537" height="237" key="GridCell.Tab.0.bottom" timestamp="1590989196377">
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1593739467340" />
+    <state width="1515" height="105" key="GridCell.Tab.0.bottom" timestamp="1593407198892">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590989196377" />
-    <state width="1537" height="237" key="GridCell.Tab.0.center" timestamp="1590989196377">
+    <state width="1515" height="105" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593407198892" />
+    <state width="1515" height="105" key="GridCell.Tab.0.center" timestamp="1593407198892">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590989196377" />
-    <state width="1537" height="237" key="GridCell.Tab.0.left" timestamp="1590989196377">
+    <state width="1515" height="105" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593407198892" />
+    <state width="1515" height="105" key="GridCell.Tab.0.left" timestamp="1593407198892">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590989196377" />
-    <state width="1537" height="237" key="GridCell.Tab.0.right" timestamp="1590989196377">
+    <state width="1515" height="105" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593407198892" />
+    <state width="1515" height="105" key="GridCell.Tab.0.right" timestamp="1593407198892">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590989196377" />
-    <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1589884837297">
+    <state width="1515" height="105" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593407198892" />
+    <state width="1515" height="264" key="GridCell.Tab.1.bottom" timestamp="1592485655713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589884837297" />
-    <state width="1515" height="265" key="GridCell.Tab.1.center" timestamp="1589884837296">
+    <state width="1515" height="264" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592485655713" />
+    <state width="1515" height="264" key="GridCell.Tab.1.center" timestamp="1592485655713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1589884837296" />
-    <state width="1515" height="265" key="GridCell.Tab.1.left" timestamp="1589884837296">
+    <state width="1515" height="264" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1592485655713" />
+    <state width="1515" height="264" key="GridCell.Tab.1.left" timestamp="1592485655713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1589884837296" />
-    <state width="1515" height="265" key="GridCell.Tab.1.right" timestamp="1589884837296">
+    <state width="1515" height="264" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1592485655713" />
+    <state width="1515" height="264" key="GridCell.Tab.1.right" timestamp="1592485655713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1589884837296" />
+    <state width="1515" height="264" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1592485655713" />
     <state x="459" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1590472989616">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="459" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1590472989616" />
-    <state x="431" y="154" width="670" height="58" key="search.everywhere.popup" timestamp="1586746836297">
+    <state x="357" y="28" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591170866264">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="154" width="670" height="58" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1586746836297" />
+    <state x="357" y="28" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1591170866264" />
+    <state x="431" y="154" width="672" height="160" key="search.everywhere.popup" timestamp="1591179189897">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="154" width="672" height="160" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1591179189897" />
   </component>
 </project>
